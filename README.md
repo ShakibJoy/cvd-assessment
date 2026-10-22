@@ -15,5 +15,4 @@ https://data.mendeley.com/datasets/d9scg7j8fp/1 — download it there; the data 
 redistributed in this repository.
 
 ## Repository contents
-- `[notebook name].ipynb` — full pipeline: preprocessing, feature engineering, models, SHAP
-- `figures/` — correlation heatmap, predicted-vs-true and residual plots, SHAP plots
+- CVD.ipynb` — full pipeline: preprocessing, feature engineering, models, SHAP, correlation heatmap, predicted-vs-true and residual plots, SHAP plots
