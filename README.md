@@ -9,7 +9,8 @@ Continuous Cardiovascular Risk Estimation via Interpretable Regression
 continuous risk score rather than binary classification. Using 1,529 patient records from
 Jamalpur Medical College Hospital, Bangladesh (CAIR-CVD-2025), we add four clinically derived
 features (TC/HDL ratio, non-HDL cholesterol, pulse pressure, mean arterial pressure), compare
-six regression models, and interpret the final model with coefficients and SHAP.
+six regression models, and interpret the final model with coefficients and SHAP. See the paper
+for more details.
 
 ## Dataset
 CAIR-CVD-2025 (Nirob et al., 2025), Mendeley Data:
