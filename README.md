@@ -1,5 +1,7 @@
 # cvd-assessment
 
+**Paper:** [Cvd assessment.pdf](Cvd assessment.pdf) manuscript, 2026; 
+
 Continuous Cardiovascular Risk Estimation via Interpretable Regression
 
 
